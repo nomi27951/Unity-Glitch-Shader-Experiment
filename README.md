@@ -5,6 +5,6 @@ Glitch shader experiment.
   3. Relative vertex offset.
 
 
-  ![Shader Steps](demo/Shader steps.gif)
+  ![Shader Steps](demo/steps.gif)
 
   ![Final Result](demo/Glitch.gif)
